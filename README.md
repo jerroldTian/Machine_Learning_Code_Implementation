@@ -8,20 +8,7 @@
 本仓库为《机器学习 公式推导与代码实现》一书配套代码库，相较于书中代码而言，仓库代码随时保持更新和迭代。目前仓库只开源了全书的代码，全书内容后续也会在仓库中开源。本仓库已经根据书中章节将代码分目录整理好，读者可直接点击相关章节使用该章节代码。
 
 ---
-### 纸质版
-<img 
-src="https://github.com/luwill/louwill-python-learning/raw/master/cover.jpg"
-width = "280" height = "350">
-<br>
-<div style="color: #999;
-font-size:11px;
-padding: 2px;"></div>
 
-购买链接：[京东](https://item.jd.com/13581834.html) | [当当](http://product.dangdang.com/29354670.html)
-
----
-### 配套PPT
-为方便大家更好的使用本书，本书也配套了随书的PPT，购买过纸质书的读者可以在机器学习实验室公众号联系作者获取。
 
 <img 
 src="https://github.com/luwill/Machine_Learning_Code_Implementation/blob/master/pic/ppt_1.png"
